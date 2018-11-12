@@ -6,4 +6,4 @@
 * Create Simple HTTP Server using NodeJS
 
 
-[Package.json](https://github.com/harshmaheshwari001/node_starter/blob/master/README.md)
+[Package.json](https://github.com/harshmaheshwari001/node_starter/blob/master/package.json)
