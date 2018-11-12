@@ -6,9 +6,9 @@
 * Sample NodeJS Code
 * Create Simple HTTP Server using NodeJS
 
-### <span id ="1">**1. Create New Application**
+### <p id ="1">**1. Create New Application**
   Create a new application from scratch 
-  * Create a empty directory and type npm init in command/Terminal</span>
+  * Create a empty directory and type npm init in command/Terminal</p>
 
 [Package.json](https://github.com/harshmaheshwari001/node_starter/blob/master/package.json)
 ```
