@@ -1,10 +1,14 @@
-**NodeJS - Start Application**
 
-* Create New Application
+# **NodeJS - Start Application**
+
+* <a href="#1">Create New Application</a>
 * What is Package.json ?
 * Sample NodeJS Code
 * Create Simple HTTP Server using NodeJS
 
+### <span id ="1">**1. Create New Application**
+  Create a new application from scratch 
+  * Create a empty directory and type npm init in command/Terminal</span>
 
 [Package.json](https://github.com/harshmaheshwari001/node_starter/blob/master/package.json)
 ```
@@ -20,3 +24,4 @@
   "license": "ISC"
 }
 ```
+
