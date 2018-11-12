@@ -8,7 +8,16 @@
 
 ### <p id ="1">**1. Create New Application**
   Create a new application from scratch 
-  * Create a empty directory and type npm init in command/Terminal</p>
+  * Create a empty directory and type **npm init** in command/Terminal</p>
+   ![ScreenShot](https://github.com/harshmaheshwari001/node_starter/blob/master/image/1.png)
+   This will initilize node js project creation command line widzard.
+   ![ScreenShot](https://github.com/harshmaheshwari001/node_starter/blob/master/image/2.png)
+   Following information needs to provide inside widzard
+    * PackageName
+    * Author
+    * Version - default (1.0.0)
+    * Entry Point - Application starter file default (index.js)
+   
 ### <p id="2">**2. What is package.json** 
 [Package.json](https://github.com/harshmaheshwari001/node_starter/blob/master/package.json)
 ```
