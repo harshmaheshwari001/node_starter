@@ -3,8 +3,8 @@
 
 * [Create New Application](#1)
 * [What is Package.json ?](#2)
-* [Sample NodeJS Code] (#3)
-* [Create Simple HTTP Server using NodeJS] (#4)
+* [Sample NodeJS Code](#3)
+* [Create Simple HTTP Server using NodeJS](#4)
 
 ### <p id ="1">**1. Create New Application**
   Create a new application from scratch 
