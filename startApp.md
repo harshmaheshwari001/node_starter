@@ -16,9 +16,13 @@
     * PackageName
     * Author
     * Version - default (1.0.0)
-    * Entry Point - Application starter file default (index.js)
+    * Entry Point - Application starter file default (index.js). 
+    
+    After providing all necessary information **package.json** file generated.
    
 ### <p id="2">**2. What is package.json** 
+  In any node application package.json file is application META-Information file. which holds all information.
+  
 [Package.json](https://github.com/harshmaheshwari001/node_starter/blob/master/package.json)
 ```
 {
