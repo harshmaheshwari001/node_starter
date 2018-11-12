@@ -9,7 +9,7 @@
 ### <p id ="1">**1. Create New Application**
   Create a new application from scratch 
   * Create a empty directory and type npm init in command/Terminal</p>
-### <p id="2">**2. What is package.json 
+### <p id="2">**2. What is package.json** 
 [Package.json](https://github.com/harshmaheshwari001/node_starter/blob/master/package.json)
 ```
 {
@@ -25,4 +25,11 @@
 }
 ```
   </p>
+  
+  ### <p id ="3">**3. Sample NodeJS Code**
+    Sample Node JS Code
+  </p>
 
+  ### <p id ="4">**4. Create Simple HTTP Server using NodeJS**
+   Create Simple HTTP Server using NodeJS
+  </p>
